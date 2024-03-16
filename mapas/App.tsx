@@ -1,10 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
 import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
@@ -95,6 +88,8 @@ function App(): React.JSX.Element {
     </SafeAreaView>
   );
 }
+
+//Abajo de cada codigo van los comentarios
 
 const styles = StyleSheet.create({
   sectionContainer: {
